@@ -1,0 +1,154 @@
+#logo{
+	height: 60px;
+	width: 110px;
+	margin-left: 130px;
+	margin-top: 10px;
+}
+#sbar{
+	width: 520px;
+	height: 30px;
+	margin-left: 20px;
+	position: relative;
+	top: -25px;
+	border: 0.5px solid #e1e5e6;
+	border-radius: 5px;
+	outline: none;
+}
+#sicon{
+	position: relative;
+	left: -523px;
+	top: -17px;
+}
+#city{
+	border: none;
+	position: relative;
+	top:-25px;
+	left: 330px;
+}
+#sbtn{
+	position: relative;
+	top: -25px;
+	left: 350px;
+	border: none;
+	background-color: #eb4e62;
+	color: white;
+	height: 25px;
+	width: 65px;
+	border-radius: 3px;
+	font-size: 13px;
+}
+#micon{
+	position: relative;
+	top: -18px;
+	right: -370px;
+}
+.sheader{
+	background-color: #f5f5f5;
+}
+li{
+	display: inline-block;
+	font-family: Roboto, Roboto, sans-serif;
+	font-size: 14px;
+	padding: 6px;
+}
+#fl{
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	right: -90px;
+}
+#sl{
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	left: 620px;
+}
+#rimg{
+	display: block;
+	margin: auto;
+	margin-top: 12px;
+	border-radius: 10px;
+}
+h3{
+	font-family: Roboto, Roboto, sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: 12px;
+	right: -150px;
+	display: inline-block;
+}
+#sa{
+	display: inline-block;
+	position: relative;
+	color: #dc3558;
+	font-family: Roboto, Roboto, sans-serif;
+	right: -1025px;
+	top:10px;
+}
+#poster1{
+	position: relative;
+	height: 370px;
+	border-radius: 10px;
+	right: -150px;
+}
+#poster2{
+	position: relative;
+	height: 370px;
+	border-radius: 10px;
+	right: -170px;
+}
+#poster3{
+	position: relative;
+	height: 370px;
+	border-radius: 10px;
+	right: -190px;
+}
+#poster4{
+	position: relative;
+	height: 370px;
+	border-radius: 10px;
+	right: -210px;
+}
+#poster5{
+	position: relative;
+	height: 370px;
+	border-radius: 10px;
+	right: -230px;
+}
+h4{
+	font-family: Roboto, Roboto, sans-serif;
+	font-size: 18px;
+	position: relative;
+	top: 12px;
+	right: -150px;
+	display: inline-block;
+}
+#t2{
+	position: relative;
+	right: -250px;
+}
+#t3{
+	position: relative;
+	right: -280px;
+}
+#t4{
+	position: relative;
+	right: -480px;
+}
+#t5{
+	position: relative;
+	right: -670px;
+}
+#ming{
+	display: block;
+	margin: auto;
+	margin-top: 60px;
+	border-radius: 10px;
+}
+#footer{
+	position: relative;
+	top: 70px;
+	left: -8px;
+	bottom: -12px;
+	width: 100.55%;
+}
